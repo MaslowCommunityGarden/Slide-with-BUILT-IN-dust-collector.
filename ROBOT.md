@@ -1,3 +1,3 @@
-ModerationLevel = customManaged
+ModerationLevel = communityManaged
 
  Facilitator: andre
