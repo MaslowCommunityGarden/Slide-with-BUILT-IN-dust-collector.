@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: andre
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "andre",
+    "Category": "maslow" 
+}
